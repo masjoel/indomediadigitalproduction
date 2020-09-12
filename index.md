@@ -16,4 +16,4 @@ Melayani pembuatan Website untuk personal, UMKM maupun Corporate. Sebuah website
 Melayani pembuatan **Aplikasi Android** dan **Aplikasi berbasis Web**
 
 ## Kontak 
-[indomediadgipro@gmail.com](https://gmail.com/)
+[indomediadigipro@gmail.com](https://gmail.com/)
